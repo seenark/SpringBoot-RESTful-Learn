@@ -1,0 +1,11 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.dependency.syncWithFolderExplorer": true,
+    "maven.view": "hierarchical"
+}
