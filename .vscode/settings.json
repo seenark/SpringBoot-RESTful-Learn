@@ -7,5 +7,6 @@
         "**/.factorypath": true
     },
     "java.dependency.syncWithFolderExplorer": true,
-    "maven.view": "hierarchical"
+    "maven.view": "flat",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
